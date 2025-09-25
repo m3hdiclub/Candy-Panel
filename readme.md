@@ -172,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🗺️ Roadmap
 
 - [x] Telegram bot integration for automated sales
-- [ ] IPV6 Support
+- [x] IPV6 Support
 - [ ] Advanced analytics and reporting
 - [ ] Docker containerization
 - [x] Manual Port for panel and api
@@ -194,4 +194,5 @@ Thanks to [@Byte-Aura](https://github.com/Byte-Aura) for help with planning and 
     <a href="https://github.com/AmiRCandy/Candy-Panel/issues">✨ Request Feature</a>
   </p>
 </div>
+
 
